@@ -6,11 +6,11 @@
 ![Static Badge](https://img.shields.io/badge/license-Apache%202.0%20with%20Commons%20Clause-green)
 
 ## Overview
-The Top Films website is a user-friendly platform that provides a social platform to discuss review lists of movies. The application is built using React and TypeScript, ensuring a robust and type-safe codebase.
+The Top Films Admin API allows for insights into the Top Films websites as well as access to its contetns which is not found in the main application
 
 ## Prerequisites
 - Git
-- Node
+- Go
 
 ## Installation
 
